@@ -1,7 +1,8 @@
 # Stochastic Modelling and Optimization: Final Project
 ## Portfolio Selection with Approximate Dynamic Programming
 
-This are the different functions of our final project for SMO. Contributors are Kelly Kuo, Hamed Mirsadeghi, Laurits Marschall and me. 
+The repository holds all the different modules built and used for the final proect. Furthermore it holds the data used (including the script for getting and cleaning the data), the documentation and the different visualizations. 
+Contributors to this project are Kelly Kuo, Hamed Mirsadeghi, Laurits Marschall and me. 
 
 
 ## Motvation
